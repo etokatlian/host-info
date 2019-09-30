@@ -1,0 +1,1 @@
+a cli tool to fetch ns records, ip address, CNAMEs, and mx records for a particular host.
